@@ -1,0 +1,16 @@
+[
+  {
+    "title": "Chicken Burger",
+    "id": "chicken_burger",
+    "description": "This is a Nielle Chicken Burger available on Demand",
+    "image": "/images/sample1.png",
+    "price": "2500"
+  },
+  {
+    "title": "Suya Fries",
+    "id": "suya_fries",
+    "description": "This is a Nielle Suya Fries available on Demand",
+    "image": "/images/sample2.png",
+    "price": "2000"
+  }
+]
